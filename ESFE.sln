@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESFE.Calculadora", "ESFE.Calculadora\ESFE.Calculadora.csproj", "{2AB41FF7-CDA9-4636-810A-376B069B42C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESFE.Calculadora.UnitTest.AppMSTest", "ESFE.Calculadora.UnitTest.AppMSTest\ESFE.Calculadora.UnitTest.AppMSTest.csproj", "{C5DAB698-E83E-4E46-A89F-9428884BC316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ESFE.Calculadora.UnitTest.AppxUnit", "ESFE.Calculadora.UnitTest.AppxUnit\ESFE.Calculadora.UnitTest.AppxUnit.csproj", "{5C0B7CFB-3679-46B5-B716-9189011B17D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{2AB41FF7-CDA9-4636-810A-376B069B42C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AB41FF7-CDA9-4636-810A-376B069B42C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AB41FF7-CDA9-4636-810A-376B069B42C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DAB698-E83E-4E46-A89F-9428884BC316}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DAB698-E83E-4E46-A89F-9428884BC316}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DAB698-E83E-4E46-A89F-9428884BC316}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DAB698-E83E-4E46-A89F-9428884BC316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C0B7CFB-3679-46B5-B716-9189011B17D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0B7CFB-3679-46B5-B716-9189011B17D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0B7CFB-3679-46B5-B716-9189011B17D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0B7CFB-3679-46B5-B716-9189011B17D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
